@@ -3,7 +3,7 @@ session_start();
 /*
  * Định nghĩa các url cần thiết được sử dụng trong website
  */
-$ROOT_URL = "/test1/duan1";
+$ROOT_URL = "/ldt-shop";
 $ADMIN_URL = "$ROOT_URL/admin";
 
 /*
