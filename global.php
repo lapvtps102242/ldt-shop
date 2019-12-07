@@ -81,4 +81,5 @@ function check_login(){
     header("location: $ROOT_URL/index.php");
     //lập đẹp trai
     //lap dep trai
+    //abc
 }
