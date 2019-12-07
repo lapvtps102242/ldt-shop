@@ -79,4 +79,5 @@ function check_login(){
     }
     $_SESSION['request_uri'] = $_SERVER["REQUEST_URI"];
     header("location: $ROOT_URL/index.php");
+    //lập đẹp trai
 }
