@@ -1,3 +1,7 @@
+<?php
+
+session_start();
+?>
 <h2>gio hang cua ban</h2>
 	<table width="100%" cellspacing="0" cellpadding="0" boder="1">
 		<tr>
@@ -8,7 +12,7 @@
 			<td></td>
 		</tr>
 			<?php
-			session_start();
+			include("model/danhmuc.php");
 			foreach ($_SESSION["cart_items"] as $item){
 			echo
 			

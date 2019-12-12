@@ -24,14 +24,13 @@
                     }
                 }
             }
-            if($was_found==false){
-                array_splice($_SESSION["cart_items"], array("id_sp" => $pro_id, "quantity" => 1));
+            if($found==false)
+            {
+                array_push($_SESSION["cart_items"], array("id_sp" => $pro_id, "quantity" => 1));
             }
         }
     }
-    header("location:index.php");
-   // echo var_dump($_SESSION["cart_items"]);
-   //foreach($_SESSION["cart_items"] as $item)
-   
+    
+    echo 'Đã thêm sản phẩm thành công!';
 ?> 
 
