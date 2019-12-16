@@ -1,5 +1,5 @@
 <?php
- session_start();
+session_start();
 include "model/pdo.php";
 include "model/catalog.php";
 include "model/news.php"
@@ -20,7 +20,6 @@ if (isset($_GET['act'])) {
             include "view/blog.php";
             break;
         case 'addcart':
-           
                 include "view/addtocart.php";
                 break;
         case 'contact':
