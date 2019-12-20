@@ -1,6 +1,5 @@
 <?php
     //session_start();
-   
     if(isset($_GET["id_sp"]))
     {
         $i=0;
