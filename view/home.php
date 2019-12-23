@@ -212,10 +212,10 @@
               <div class="form-group col-md-12">
                 <label for="input-5">Sản phẩm:</label>
                 <select name="" id="input-5" class="form-control">
-                  <option value="">Motor Yacht</option>
-                  <option value="">Hi-Speed Yacht</option>
-                  <option value="">Premium Yacht</option>
-                  <option value="">Presidential Yacht</option>
+                  <option value="">ASUS</option>
+                  <option value="">DELL</option>
+                  <option value="">MSI</option>
+                  <option value="">LENOvO</option>
                 </select>
               </div>
 
@@ -354,7 +354,7 @@
             </div>
           </div>
           <div class="mb-4 mb-lg-0 col-md-6 col-lg-4">
-            <div class="testimony-39291">
+            <!-- <div class="testimony-39291">
               <blockquote>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem laborum cumque commodi, unde doloribus.</p>
               </blockquote>
@@ -367,10 +367,10 @@
                   <span>CEO and Co-Founder</span>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
           <div class="mb-4 mb-lg-0 col-md-6 col-lg-4">
-            <div class="testimony-39291">
+            <!-- <div class="testimony-39291">
               <blockquote>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem laborum cumque commodi, unde doloribus.</p>
               </blockquote>
@@ -383,7 +383,7 @@
                   <span>CEO and Co-Founder</span>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
