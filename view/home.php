@@ -5,8 +5,8 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-7 ml-auto text-right" data-aos="fade-up">
-              <h1>Explore, Discover The Ocean</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, in distinctio nostrum laborum sed quisquam voluptate facilis non.</p>
+              <h1>Hổ Trợ Trực Tuyến</h1>
+              <p>Nhân viên tư vấn nhiệt tình, giải đáp thắc mắc của khách hàng</p>
               <p><a href="#" class="btn btn-primary py-3 px-5">Read More</a></p>
             </div>
           </div>
@@ -17,8 +17,8 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
-              <h1>Enjoy The Ocean With Your Family</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, in distinctio nostrum laborum sed quisquam voluptate facilis non.</p>
+              <h1>Chọn Laptop Cho Bản Thân</h1>
+              <p>Shop cung cấp các loại laptop phù hợp cho học tập, làm việc và vui chơi giải trí</p>
               <p><a href="#" class="btn btn-primary py-3 px-5">Read More</a></p>
             </div>
           </div>
